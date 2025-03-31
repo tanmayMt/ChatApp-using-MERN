@@ -2,6 +2,6 @@ backend/node_modules
 backend/.env
 
 .env
-client/node_modules
-client/.env
+Frontend/node_modules
+Frontend/.env
 chatGPT
